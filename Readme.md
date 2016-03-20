@@ -12,3 +12,8 @@ Controls:
   rotate   	- r 
   exit		  - ctrl-c
 ```
+
+
+# Screenshot
+
+![alt tag](http://atokama.github.io/go-tetris/go-tetris-screenshot.png)
